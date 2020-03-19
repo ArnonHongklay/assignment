@@ -1,4 +1,4 @@
-# lampangfood
+# Post it
 
 ## Project setup
 ```
